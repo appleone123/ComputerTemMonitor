@@ -1,1 +1,2 @@
 # ComputerTemMonitor
+这是一个桌面CPU温度和占用率监视插件
